@@ -1,0 +1,5 @@
+{
+  "name": "海报评审 AI (PosterCheck AI)",
+  "description": "基于 AI 的自动化海报评审工具，提供视觉扫描、逻辑评估和可操作的修改建议。",
+  "requestFramePermissions": []
+}
